@@ -1,0 +1,6 @@
+.env
+kasin.db
+__pycache__/
+
+.vercel
+.env*
